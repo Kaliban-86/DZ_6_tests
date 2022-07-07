@@ -35,5 +35,3 @@ def test_pow():
 
 def test_hypot():
     assert math.hypot(2, 2) == math.hypot(2, 2)
-
-
